@@ -1,0 +1,54 @@
+{
+    "workbench.colorTheme": "Default High Contrast",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "JetBrains Mono Regular",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "explorer.compactFolders": false,
+    "workbench.editor.labelFormat": "short",
+    "breadcrumbs.enabled": false,
+    "files.autoSave": "afterDelay",
+    "workbench.activityBar.location": "bottom",
+    "workbench.productIconTheme": "bongocat",
+    "editor.minimap.enabled": false,
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.7,
+    "editor.renderLineHighlight": "all",
+    "background.editor": {
+    
+        "useFront": true,
+        "style": {
+            // "background-position": "calc(",
+            "background-size": "25rem"
+            // "opacity": 0.5
+        },
+        "styles": [
+            {},
+            {},
+            {}
+        ],
+        "images": ["https://i.kym-cdn.com/photos/images/facebook/002/417/809/a7e"],
+        "random": false
+    },
+    "background.sidebar": {
+        // "images": ["https://media.tenor.com/58oABCgvBdEAAAAM/davy-jones-gameplayrj.gif"],
+        "opacity": 0.3,
+        "size": "cover",
+        "position": "center",
+        "interval": 0,
+        "random": false
+    },
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "javascript": false,
+        "html": false,
+        "css": false
+    },
+    "terminal.integrated.fontFamily": "monospace",
+    "github.copilot.selectedCompletionModel": "",
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "editor.renderWhitespace": "all",
+    "background.enabled": true
+}
