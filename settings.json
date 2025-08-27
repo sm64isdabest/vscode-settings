@@ -53,4 +53,5 @@
     "terminal.integrated.defaultProfile.windows": "Git Bash",
     "workbench.colorTheme": "Default High Contrast",
     "indenticator.color.dark": "#111",
+    "where-am-i.textTransfrom": "none",
 }
