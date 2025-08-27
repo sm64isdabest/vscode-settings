@@ -1,5 +1,4 @@
 {
-    "workbench.colorTheme": "Default High Contrast",
     "workbench.iconTheme": "material-icon-theme",
     "editor.fontFamily": "JetBrains Mono Regular",
     "liveServer.settings.donotShowInfoMsg": true,
@@ -50,5 +49,8 @@
     "github.copilot.selectedCompletionModel": "",
     "github.copilot.nextEditSuggestions.enabled": true,
     "editor.renderWhitespace": "all",
-    "background.enabled": true
+    "background.enabled": true,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "workbench.colorTheme": "Default High Contrast",
+    "indenticator.color.dark": "#111",
 }
