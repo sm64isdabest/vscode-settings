@@ -21,9 +21,13 @@
 - [Cucumber (Gherkin) Full Support](https://marketplace.visualstudio.com/items?itemName=alexkrechik.cucumberautocomplete)
 - [Composer](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode)
 - [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+- [Where Am I?](https://marketplace.visualstudio.com/items?itemName=antfu.where-am-i)
+- [Time](https://marketplace.visualstudio.com/items?itemName=n3rds-inc.time)
+- [Open in GitHub](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-open-in-github)
+- [Indenticator](https://marketplace.visualstudio.com/items?itemName=SirTori.indenticator)
 
 ### Theme:
-- **Dark High Contrast** *(already in VSCode)*
+- **Dark High Contrast** *Default High Contrast*
 
 ### Font:
 - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
