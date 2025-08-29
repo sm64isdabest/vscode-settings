@@ -6,6 +6,10 @@
   <a href="#font">Font</a>
 </p>
 
+<p align="center">
+  <img alt="Preview of how it will look with everything enabled." src=".github/preview.png" width=100%>
+</p>
+
 ### Extensions:
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 - [background](https://marketplace.visualstudio.com/items?itemName=shalldie.background)
