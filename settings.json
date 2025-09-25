@@ -16,7 +16,7 @@
     
         "useFront": true,
         "style": {
-            // "background-position": "calc(",
+            // "background-position": "",
             "background-size": "25rem"
             // "opacity": 0.5
         },
@@ -29,7 +29,7 @@
         "random": false
     },
     "background.sidebar": {
-        // "images": ["https://media.tenor.com/58oABCgvBdEAAAAM/davy-jones-gameplayrj.gif"],
+        // "images": [""],
         "opacity": 0.3,
         "size": "cover",
         "position": "center",
@@ -54,4 +54,5 @@
     "workbench.colorTheme": "Default High Contrast",
     "indenticator.color.dark": "#111",
     "where-am-i.textTransfrom": "none",
+    "wakatime.apiKey": "paste your API key here"
 }
