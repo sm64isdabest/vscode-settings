@@ -11,24 +11,26 @@
 </p>
 
 ### Extensions:
-- [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 - [background](https://marketplace.visualstudio.com/items?itemName=shalldie.background)
 - [Bongo Cat](https://marketplace.visualstudio.com/items?itemName=pixl-garden.BongoCat)
 - [BongoCat Sidebar](https://marketplace.visualstudio.com/items?itemName=Milynn.bongocat-sidebar)
+- [Composer](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode)
+- [Cucumber (Gherkin) Full Support](https://marketplace.visualstudio.com/items?itemName=alexkrechik.cucumberautocomplete)
+- [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-- [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+- [Indenticator](https://marketplace.visualstudio.com/items?itemName=SirTori.indenticator)
+- [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 - [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - [Node.js Exec](https://marketplace.visualstudio.com/items?itemName=miramac.vscode-exec-node)
-- [PHP](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.phptools-vscode)
-- [Cucumber (Gherkin) Full Support](https://marketplace.visualstudio.com/items?itemName=alexkrechik.cucumberautocomplete)
-- [Composer](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode)
-- [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
-- [Where Am I?](https://marketplace.visualstudio.com/items?itemName=antfu.where-am-i)
-- [Time](https://marketplace.visualstudio.com/items?itemName=n3rds-inc.time)
 - [Open in GitHub](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-open-in-github)
-- [Indenticator](https://marketplace.visualstudio.com/items?itemName=SirTori.indenticator)
+- [PHP](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.phptools-vscode)
+- [Time](https://marketplace.visualstudio.com/items?itemName=n3rds-inc.time)
+- [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
+- [Where Am I?](https://marketplace.visualstudio.com/items?itemName=antfu.where-am-i)
 
 ### Theme:
 - **Dark High Contrast** *Default High Contrast*
