@@ -4,7 +4,6 @@
     "liveServer.settings.donotShowInfoMsg": true,
     "explorer.compactFolders": false,
     "workbench.editor.labelFormat": "short",
-    "breadcrumbs.enabled": false,
     "files.autoSave": "afterDelay",
     "workbench.activityBar.location": "bottom",
     "workbench.productIconTheme": "bongocat",
@@ -12,14 +11,6 @@
     "editor.fontSize": 14,
     "editor.lineHeight": 1.7,
     "editor.renderLineHighlight": "all",
-    "background.editor": {
-        "useFront": true,
-        "style": {
-            "background-size": "25rem"
-        },
-        "images": ["https://i.kym-cdn.com/photos/images/facebook/002/417/809/a7e"],
-        "random": false
-    },
     "github.copilot.enable": {
         "*": false,
         "plaintext": false,
@@ -32,11 +23,24 @@
     "terminal.integrated.fontFamily": "monospace",
     "github.copilot.selectedCompletionModel": "",
     "github.copilot.nextEditSuggestions.enabled": true,
-    "editor.renderWhitespace": "all",
-    "background.enabled": true,
+    "editor.renderWhitespace": "none",
+    "background.enabled": false,
     "terminal.integrated.defaultProfile.windows": "Git Bash",
-    "workbench.colorTheme": "Default High Contrast",
-    "indenticator.color.dark": "#111",
     "where-am-i.textTransfrom": "none",
-    "wakatime.apiKey": "paste your API key here"
+    "wakatime.apiKey": "paste your API key here",
+    "gitlens.ai.model": "vscode",
+    "gitlens.ai.vscode.model": "copilot:gpt-4.1",
+    "workbench.colorCustomizations": {},
+    "window.titleBarStyle": "custom",
+    "window.controlsStyle": "custom",
+    "indentRainbow.indicatorStyle": "light",
+    "indentRainbow.colors": [
+        "rgba(255,255,64, 0.3)",
+        "rgba(127,255,127, 0.3)",
+        "rgba(255,127,255, 0.3)",
+        "rgba(79,236,236, 0.3)"
+    ],
+    "glassit.alpha": 220,
+    "chat.commandCenter.enabled": false,
+    "workbench.layoutControl.enabled": false
 }
