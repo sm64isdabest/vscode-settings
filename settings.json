@@ -24,7 +24,6 @@
     "github.copilot.selectedCompletionModel": "",
     "github.copilot.nextEditSuggestions.enabled": true,
     "editor.renderWhitespace": "none",
-    "background.enabled": false,
     "terminal.integrated.defaultProfile.windows": "Git Bash",
     "where-am-i.textTransfrom": "none",
     "wakatime.apiKey": "paste your API key here",
